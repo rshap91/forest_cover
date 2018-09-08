@@ -31,3 +31,6 @@ Things to look for include:
   - Imbalanced Classes:
     - Can I sequentially train on proportioned samples?
     - Undersample/Oversample Majority?
+
+
+### Feature Selection
