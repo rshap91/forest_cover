@@ -33,4 +33,9 @@ Things to look for include:
     - Undersample/Oversample Majority?
 
 
-### Feature Selection
+## Modeling
+
+  - Ensembling is cool, but only thing that worked here was majority vote
+  - Instead of Stacking at the end, add all the preds in as features in the
+    beginning and then run through feature selection (like what you did with NaiveBayes preds)
+  - What I didn't get to try was fitting estimators to _specialize_ in individual classes.
