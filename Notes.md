@@ -8,7 +8,7 @@ Things to look for include:
   - Skew if any
   - Outliers
   - Nulls
-  - Correlations/Colinearity
+  - Correlations/Collinearity
   - Target Distribution
 
 

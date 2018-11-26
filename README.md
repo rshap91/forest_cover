@@ -5,7 +5,7 @@ Kaggle Competittion for Predicting Forest Cover Type
 ## Intro
 
 In this kaggle competition, participants are asked to predict the cover type
-of trees based on geographic features such distance from water, elevation,
+of trees based on geographic features such as distance from water, elevation,
 sun exposure, soil type, etc.
 
 I chose this competition because it was a great opportunity to practice
